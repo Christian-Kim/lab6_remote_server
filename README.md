@@ -2,7 +2,7 @@
 
 1. Log onto the remote server
 
-2. Navigate to the data folder and find the dataset called uw-elevations.csv.bz2
+2. Navigate to the data folder (/opt/data) and find the dataset called uw-elevations.csv.bz2
 
 3. From your local machine, copy the dataset from the server to your local machine
 
